@@ -1,8 +1,8 @@
 # emojiOnGit
 
 ## The app
-### This app is for the user to be able to see all the emoji images that github has.
-### A way for me to practice C# and learn a new ide dev tool environment of Visual Studio Code for Mac.
+This app is for the user to be able to see all the emoji images that github has.
+A way for me to practice C# and learn a new ide dev tool environment of Visual Studio Code for Mac.
 
 ## Putting it together
 ### This project was built in Visual Studio Code for Mac for a ASP.Net Core and Razor pages app. 
